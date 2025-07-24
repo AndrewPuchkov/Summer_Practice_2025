@@ -1,0 +1,15 @@
+{
+    "features": [
+        "size_scaled",
+        "weight_scaled",
+        "sweetness_scaled",
+        "crunchiness_scaled",
+        "juiciness_scaled",
+        "ripeness_scaled",
+        "acidity_scaled"
+    ],
+    "metrics": {
+        "accuracy": 0.89125,
+        "f1": 0.8921933085501859
+    }
+}
